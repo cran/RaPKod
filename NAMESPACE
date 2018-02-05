@@ -1,0 +1,7 @@
+useDynLib(RaPKod, .registration=TRUE)
+importFrom(Rcpp, evalCpp)
+import("kernlab")
+importFrom("proxy", "dist")
+importFrom("MASS", "ginv")
+importFrom("stats", "cov", "rnorm")
+export("rapkod", "od.opt.param")

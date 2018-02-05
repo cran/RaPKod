@@ -1,0 +1,12 @@
+bc9f6b7bb5bd04bccb8bef32ecfbee58 *DESCRIPTION
+2f2b18202e5848cb03564f475b18f1ba *NAMESPACE
+fff97b9487ab2f778c7b512dbc914de3 *R/RcppExports.R
+cfb4b2dbc4cf8ebb149b72e53fa8fd7f *R/rapkod.R
+d8dbacca0965bfa7b26998f635bcd060 *build/partial.rdb
+21f7e034768ca2fe68fd913029bf9371 *man/RaPKod-package.Rd
+2d67595ad9b49eb1ce5664c71a4d1341 *man/od.opt.param.Rd
+0f4ac1597e8c2bad28989bb73a77faea *man/rapkod.Rd
+661f394ccbe8c6b76109df1fa806b490 *src/Makevars
+661f394ccbe8c6b76109df1fa806b490 *src/Makevars.win
+69236b7fe281c0132529b2b83b196705 *src/RcppExports.cpp
+e33138021095b8ffcd355c034d080d18 *src/rapkodAux.cpp
